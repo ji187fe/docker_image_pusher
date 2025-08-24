@@ -1,2 +1,2 @@
 nyanmisaka/jellyfin:latest
-docker pull jellyfin/jellyfin:latest
+jellyfin/jellyfin:latest
